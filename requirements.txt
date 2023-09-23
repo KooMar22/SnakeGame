@@ -1,0 +1,5 @@
+gunicorn==21.2.0
+packaging==23.1
+pygame==2.5.1
+pygbag==0.7.2
+token-utils==0.1.8
